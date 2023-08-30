@@ -1,4 +1,4 @@
-#REACT Node.js SQL(MariaDB)
+### REACT Node.js SQL(MariaDB)
 
 PRIVATE_KEY = "Clé secrète du token en développement"  
 DB_NAME = "pokedex"  
